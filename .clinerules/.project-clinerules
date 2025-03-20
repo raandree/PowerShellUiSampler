@@ -1,0 +1,15 @@
+
+# Custom Instructions
+
+## Before writing code
+
+- Check project files before suggesting structural or dependency changes
+- Ask 'stupid' questions like: are you sure this is the best way to implement this?
+- Check project files before suggesting structural or dependency changes
+- Don't complete the analysis prematurely, continue analyzing even if you think you found a solution
+- Rate confidence (1-10) before saving files, after saving, after rejections, and before task completion
+
+1. Analyze all code files thoroughly
+2. Get full context
+3. Write .MD implementation plan
+4. Then implement code"
